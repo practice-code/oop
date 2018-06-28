@@ -1,2 +1,2 @@
-# oop
-Object Oriented Programming in PHP
+# Python
+python programming snippets & practice
